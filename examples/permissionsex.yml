@@ -9,6 +9,8 @@ groups:
         - essentials.helpop
         - essentials.help
         - modifyworld.*
+        - essentials.home
+        - essentials.sethome
         prefix: '&e'
         options:
             build: false
